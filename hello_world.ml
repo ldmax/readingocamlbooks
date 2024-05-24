@@ -14,5 +14,3 @@ let addtoten a b = a + b = 10;;
 let () = Printf.printf "%d\n" (cube 3);;
 
 let test x = if neg x then Printf.printf "Negative\n" else Printf.printf "Positive\n";;
-
-
